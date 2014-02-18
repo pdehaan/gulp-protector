@@ -1,0 +1,22 @@
+{
+  "name": "gulp-protector",
+  "version": "0.0.0",
+  "description": "``` var gulp = require('gulp'); var protector = require('gulp-protector');",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/poying/gulp-protector.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Po-Ying Chen <poying.me@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poying/gulp-protector/issues"
+  },
+  "homepage": "https://github.com/poying/gulp-protector"
+}
