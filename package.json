@@ -11,7 +11,8 @@
     "url": "git://github.com/poying/gulp-protector.git"
   },
   "keywords": [
-    "gulp"
+    "gulp",
+    "gulpplugin"
   ],
   "author": "Po-Ying Chen <poying.me@gmail.com>",
   "license": "MIT",
